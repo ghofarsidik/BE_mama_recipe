@@ -106,7 +106,7 @@ To use this project, follow the instructions below to understand the project str
 ### 📂 Directory Structure
 
 ```
-be-mama-food-recipe-app/
+BE_mama_recipe/
 ├── prisma/
 │   └── schema.prisma
 ├── src/
