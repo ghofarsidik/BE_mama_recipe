@@ -61,12 +61,7 @@ Ensure you have the following installed on your local machine:
    git clone https://github.com/ghofarsidik/BE_mama_recipe.git
    ```
 
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. Navigate to the workspace
+2. **Navigate to the workspace**
 
    ```sh
       cd BE_mama_recipe
@@ -77,6 +72,11 @@ Ensure you have the following installed on your local machine:
     ```sh
       code .
     ```
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
 4. Set up your database
 
